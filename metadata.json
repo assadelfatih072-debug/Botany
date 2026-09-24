@@ -1,0 +1,6 @@
+{
+  "name": "Pharmaceutical Botany MCQs - Instant Correction",
+  "description": "Comprehensive interactive question bank for Pharmaceutical Botany (60 MCQs) featuring immediate answer validation, scientific explanations, and pharmaceutical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
